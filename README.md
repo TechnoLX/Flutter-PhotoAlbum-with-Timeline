@@ -7,9 +7,9 @@ the pub.dev reference
 [Introduction_screen](https://pub.dev/packages/introduction_screen)
 
 Youtube Channel:
- 1. Preview:
- 2. Coding Part 1:
- 3. Coding Part 2:
+ 1. Preview: https://youtu.be/peMBtRQqCh4
+ 2. Coding Part 1: https://youtu.be/HyULvLzBfYk
+ 3. Coding Part 2: https://youtu.be/bylwadVevzY
 
 Credit to:
 
@@ -30,21 +30,21 @@ Credit to:
 4) Images:
   - taken from pixabay, [https://pixabay.com/] <br/>
   - from authors:
-    a. Vlack_HammeR
-    b. 5882641
-    c. aliceabc0
-    d. AdinaVoicu
-    e. StockSnap
-    f._Vane_
+    a. Vlack_HammeR <br/>
+    b. 5882641 <br/>
+    c. aliceabc0 <br/>
+    d. AdinaVoicu <br/>
+    e. StockSnap <br/>
+    f._Vane_ <br/>
 
   - taken from unsplash, [https://unsplash.com/] <br/>
   - from authors:
-    a. Toa Heftiba (@heftiba)
-    b. Vitor Pinto (@vdapinto)
-    c. Joanna Nix-Walkup (@joanna_nix)
-    d. Jonathan Borba (@jonathanborba)
-    e. Taisiia Stupak (@taiamint)
-    f. Hannah Skelly (@hannahivelisse)
+    a. Toa Heftiba (@heftiba) <br/>
+    b. Vitor Pinto (@vdapinto) <br/>
+    c. Joanna Nix-Walkup (@joanna_nix) <br/>
+    d. Jonathan Borba (@jonathanborba) <br/>
+    e. Taisiia Stupak (@taiamint) <br/>
+    f. Hannah Skelly (@hannahivelisse) <br/>
  
 Please feel free to comment and edit to make it look better. This project was created for flutter mobile application coding exercise. 
 
