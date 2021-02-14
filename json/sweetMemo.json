@@ -1,1 +1,49 @@
+{
 
+    "timeline": [
+
+        {
+            "title": "First Meet",
+            "date": "OCT 2020",
+            "sweetPhoto": {
+                "photo1": "assets/p1.jpg",
+                "photo2": "assets/p2.jpg",
+                "photo3": "assets/p3.jpg"
+            },
+            "sweetMemo": "Some text here some text here!"
+        },
+
+        {
+            "title": "First Dating",
+            "date": "NOV 2020",
+            "sweetPhoto": {
+                "photo1": "assets/p4.jpg",
+                "photo2": "assets/p5.jpg",
+                "photo3": "assets/p6.jpg"
+            },
+            "sweetMemo": "Some text here some text here!"
+        },
+
+        {
+            "title": "First Outing",
+            "date": "DEC 2020",
+            "sweetPhoto": {
+                "photo1": "assets/p7.jpg",
+                "photo2": "assets/p8.jpg",
+                "photo3": "assets/p9.jpg"
+            },
+            "sweetMemo": "Some text here some text here!"
+        },
+        {
+            "title": "Sweet Moment",
+            "date": "JAN 2021",
+            "sweetPhoto": {
+                "photo1": "assets/p10.jpg",
+                "photo2": "assets/p11.jpg",
+                "photo3": "assets/p12.jpg"
+            },
+            "sweetMemo": "Some text here some text here!"
+        }
+
+    ]
+}
